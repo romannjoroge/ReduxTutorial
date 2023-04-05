@@ -1,0 +1,28 @@
+{
+    "chapters": [
+        {
+            "title": "Title 1",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi"
+        },
+        {
+            "title": "Title 2",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi"
+        },
+        {
+            "title": "Title 3",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi"
+        },
+        {
+            "title": "Title 4",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi"
+        },
+        {
+            "title": "Title 5",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi"
+        },
+        {
+            "title": "Title 6",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi"
+        }
+    ]
+}
